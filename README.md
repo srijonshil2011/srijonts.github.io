@@ -1,12 +1,7 @@
-# srijonts.github.io — সৃজনশীল তরুণ সংঘ
+# srijonts.github.io
 
-এই ZIP-এ ব্যবহার করা `logo.png` হলো ব্যবহারকারীর দেওয়া আসল সংগঠনের লোগো।
+GitHub Pages website for সৃজনশীল তরুণ সংঘ.
 
-Repository root-এ রাখবেন:
-- index.html
-- style.css
-- script.js
-- logo.png
-- অন্যান্য .html ফাইল
-
-`index.html`-এর CSS/JS/logo path root-level অনুযায়ী সেট করা আছে।
+Root files: index.html, style.css, script.js, logo.png and all HTML pages.
+Upload the contents of this ZIP to the repository root — do not upload the ZIP itself.
+The logo.png is the exact logo supplied by the user.
